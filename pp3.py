@@ -6,7 +6,7 @@ import requests
 app = Flask(__name__)
 CORS(app)
 
-# OpenAI API Key
+# OpenAI API Key 2
 api_key = "sk-gHtb9Sru2TDKIiC89hjtGnMIA56o6y7Ka2YDW95xNAT3BlbkFJiNSJ2vgHT1tT3KFlocme0Oe5UEYz5OJ-0IHdjbnBkA"
 
 def analyze_image(base64_image):
